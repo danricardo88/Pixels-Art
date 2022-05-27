@@ -4,9 +4,9 @@
 
 
 
-/*
 
-let colorPalette = [1, 2, 3, 4];
+
+/*let colorPalette = [1, 2, 3, 4];
 
 function createColorPalette() {
   const paletteColor = document.querySelector('#color-palette');
