@@ -38,6 +38,9 @@ body{
   display: inline-flex;
   justify-content: left;
 }
+.selected {
+
+}
 
 #palette2 {
   background-color: #782038;
@@ -93,24 +96,6 @@ body{
 }
 
 /*#pixel2 {
-  width: 40px;
-  height: 40px;
-  border: 1px solid black;
-}
-
-#pixel3 {
-  width: 40px;
-  height: 40px;
-  border: 1px solid black;
-}
-
-#pixel4 {
-  width: 40px;
-  height: 40px;
-  border: 1px solid black;
-}
-
-#pixel5 {
   width: 40px;
   height: 40px;
   border: 1px solid black;
