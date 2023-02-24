@@ -92,11 +92,11 @@ const clear = () => {
 
 btn.addEventListener('click', clear);
 
-//chegando as exigencias para add pixel
+// checando as exigencias para add pixel
 const pixelsChecagem = () => {
   if (inputValor.value === '') {
     alert('Board inválido!');
-    inputValor.value = 25;
+    inputValor.value = 5;
   } else if (inputValor.value < 5) {
     inputValor.value = 5;
   } else if (inputValor.value > 50) {
